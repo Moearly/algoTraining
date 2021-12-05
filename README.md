@@ -80,8 +80,28 @@ leetcode 724. 寻找数组的中心索引
 
 ## week03
 
+78. 子集
 ### 基本作业
+##### [23:  合并K 个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
+
+##### [47:  全排列 II](https://leetcode-cn.com/problems/permutations-ii/)
+递归，回溯，剪支，排序
+
+106 从中序与后序遍历序列构造二叉树（Medium）https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+210 课程表 II （Medium https://leetcode-cn.com/problems/course-schedule-ii/
+685 冗余连接 II https://leetcode-cn.com/problems/redundant-connection-ii/
 
 ### 打卡题目
+##### [78:  子集:Day15](https://leetcode-cn.com/problems/subsets/)
+
+##### [77:  组合:Day16](https://leetcode-cn.com/problems/combinations/)
+
+##### [98:  验证二叉搜索树:Day17](https://leetcode-cn.com/problems/validate-binary-search-tree/)
+
+
 
 ### 课上题目
+
+##### [46:  全排列](https://leetcode-cn.com/problems/permutations/)
+递归，回溯，剪支
+
