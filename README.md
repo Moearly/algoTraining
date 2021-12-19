@@ -105,3 +105,32 @@ leetcode 724. 寻找数组的中心索引
 ##### [46:  全排列](https://leetcode-cn.com/problems/permutations/)
 递归，回溯，剪支
 
+
+## week04
+### 基本作业
+### 打卡题目
+### 课上题目
+
+
+## week05
+### 基本作业
+### 打卡题目
+[day29 滑动窗口最大值-239](https://leetcode-cn.com/problems/sliding-window-maximum/)
+
+[day30 二分查找-704](https://leetcode-cn.com/problems/binary-search/)
+
+[day31 在排序数组中查找元素的第一个和最后一个位置-34](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
+[day32 Sqrt(x)-69](https://leetcode-cn.com/problems/sqrtx/)
+
+[day33 寻找峰值-162](https://leetcode-cn.com/problems/find-peak-element/)
+
+周六：🎬day34
+猜数字大小-374
+https://leetcode-cn.com/problems/guess-number-higher-or-lower/
+周日：🎬day35
+https://leetcode-cn.com/problems/kth-largest-element-in-an-array/
+### 课上题目
+
+
+
