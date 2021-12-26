@@ -125,12 +125,19 @@ leetcode 724. 寻找数组的中心索引
 
 [day33 寻找峰值-162](https://leetcode-cn.com/problems/find-peak-element/)
 
-周六：🎬day34
-猜数字大小-374
-https://leetcode-cn.com/problems/guess-number-higher-or-lower/
+[day34 猜数字大小-374](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)
+
+[day35 数组中的第K个最大元素-215](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
+
 周日：🎬day35
-https://leetcode-cn.com/problems/kth-largest-element-in-an-array/
+
 ### 课上题目
 
+## week05
+### 基本作业
+### 打卡题目
+[day36 合并区间-56](https://leetcode-cn.com/problems/merge-intervals/)
+[day37 爬楼梯-70](https://leetcode-cn.com/problems/climbing-stairs/description/)
 
+### 课上题目
 
