@@ -133,11 +133,25 @@ leetcode 724. 寻找数组的中心索引
 
 ### 课上题目
 
-## week05
+## week06
 ### 基本作业
+[最长递增子序列的个数-673](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)
 ### 打卡题目
 [day36 合并区间-56](https://leetcode-cn.com/problems/merge-intervals/)
 [day37 爬楼梯-70](https://leetcode-cn.com/problems/climbing-stairs/description/)
+
+[day38零钱兑换-322](https://leetcode-cn.com/problems/coin-change/)
+[day39买卖股票的最佳时机II-122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
+
+周五：🎬day40
+跳跃游戏 II-45
+https://leetcode-cn.com/problems/jump-game-ii/
+周六：🎬day41
+接雨水-42
+https://leetcode-cn.com/problems/trapping-rain-water/
+周日：🎬day42
+最大子序和-53
+https://leetcode-cn.com/problems/maximum-subarray/
 
 ### 课上题目
 
